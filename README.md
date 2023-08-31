@@ -8,13 +8,9 @@ The data was collected by our unmanned cruise boat ”Xi”, which is equipped w
 ## Structures
 This dataset contains 10 sequencens. For each sequences, the detail goes as follows:
 | Items| Seq1 | Seq2 | Seq3 | Seq4 | Seq5 | Seq6 | Seq7 | Seq8 | Seq9 | Seq10 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- |
 | Scenes| SWL | MR | MR | MR | MR | SWL | SWL | SWL | SWL | SWL |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- |
 | Time | dusk | morning | noon | evening | noon | mignight | afternoon | afternoon | dusk | dusk |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- |
 | Duration/s | 33 | 72 | 197 | 38 | 40 | 151 | 79 | 33 | 39 | 09 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- |
 | Weather | cloudy | cloudy | sunny | night | sunny | foggy | sunny | cloudy | sunny | sunny |
 
 ## Datasample
