@@ -36,6 +36,9 @@ The dataset is made into VOC style, and is clustered to training, validation and
     - seq1_0001.png
 
  - SEQ2
+   - ImageSets
+   - JPEGImages
+   - SegmentationClass
 
 ...
 
