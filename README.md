@@ -48,7 +48,7 @@ The dataset is made into VOC style, and is clustered to training, validation and
 ## Datasample
 The sample of our dataset is as illustrated, aside of different static conditions, the dataset also involved special occasions such as encountering with other boats and floatings.
 
-![]![]![]
+![https://github.com/Lxy9710/Seq_LANE/blob/main/gif1.gif]![]![]
 
 ## Acknowledgement 
 I you think this work helpful, please cite by:
