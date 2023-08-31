@@ -17,14 +17,14 @@ This dataset contains 10 sequencens. For each sequences, the detail goes as foll
 
 ## How to use
 
-The dataset is made into VOC style, and is clustered to training, validation and test by 6:2:2. If you need to utilize the data with temporal sequence, the annotation is made so. You can also shuffle the data for single frame/image learning.
+The dataset is made into VOC style, and is clustered to training, validation and test by 6:2:2. If you need to utilize the data with temporal sequence, the annotation is made so. You can also shuffle the data for single frame or image learning.
 
 - SEQ1
   - ImageSets
     - Segmentation
       - seq1_test.txt
-      - seq1_train.txt
       - seq1_val.txt
+      - seq1_train.txt
 
   - JPEGImages
     - seq1_0000.jpg
