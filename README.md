@@ -21,10 +21,10 @@ The dataset is made into VOC style, and is clustered to training, validation and
 
 - SEQ1
   -ImageSets
-   -Segmentation
-   -seq1_test.txt
-   -seq1_train.txt
-   -seq1_val.txt
+    -Segmentation
+      -seq1_test.txt
+      -seq1_train.txt
+      -seq1_val.txt
 
   - JPEGImages
     - seq1_0000.jpg
