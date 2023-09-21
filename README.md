@@ -3,7 +3,7 @@ This open access dataset is for ASVs free space segmentation, along with our pap
 for ASVs".
 
 ## Introduction
-The data was collected by our unmanned cruise boat ”Xi”, which is equipped with cameras with a resolution of 1920 × 1080. The dataset was collected in varying weather and lighting conditions, including mirrors, dynamic surface textures, cluttered backgrounds, and motion quiver interference. This VOC style dataset contains 10 sequences, which consist of 5530 frames, illustrating sunny daytime, midnight, dusk of Moat River in Xi’an and Yangzhou Slender West Lake are involved. 
+The data was collected by our ASV ”Xi”, which is equipped with cameras with a resolution of 640 × 180. The dataset was collected in varying weather and lighting conditions, including mirrors, dynamic surface textures, cluttered backgrounds, and motion quiver interference. This VOC style dataset contains 10 sequences, which consist of 5530 frames, illustrating sunny daytime, midnight, dusk of Moat River in Xi’an and Yangzhou Slender West Lake are involved. 
 
 This dataset contains 10 sequencens. For each sequences, the detail goes as follows, the MR means Moat River and SWL means Yangzhou Slender West Lake:
 
