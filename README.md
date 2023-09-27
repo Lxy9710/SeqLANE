@@ -5,11 +5,11 @@ for Autonomous Surface Vessels".
 ## Introduction
 The data was collected by our ASV ”Xi”, which is equipped with cameras with a resolution of 640 × 180. The dataset was collected in varying weather and lighting conditions, including mirrors, dynamic surface textures, cluttered backgrounds, and motion quiver interference. This VOC style dataset contains 10 sequences, which consist of 5530 frames, illustrating sunny daytime, midnight, dusk of inland rivers and lakes are involved. 
 
-This dataset contains 10 sequencens. For each sequences, the detail goes as follows, the MR means Moat River and SWL means Yangzhou Slender West Lake:
+This dataset contains 10 sequencens. For each sequences, the detail goes as follows, the R means Rivers and L means Lakes:
 
 | Items| Seq1 | Seq2 | Seq3 | Seq4 | Seq5 | Seq6 | Seq7 | Seq8 | Seq9 | Seq10 |
 |----- | ---- |----- | ---- |---- | ---- |----- | ---- |---- | ---- |----- |
-| Scenes| SWL | MR | MR | MR | MR | SWL | SWL | SWL | SWL | SWL |
+| Scenes| L | R | R | R | R | L | L | L | L | L |
 | Time | dusk | morning | noon | evening | noon | mignight | afternoon | afternoon | dusk | dusk |
 | Weather | cloudy | cloudy | sunny | night | sunny | foggy | sunny | cloudy | sunny | sunny |
 | Duration/s | 33 | 72 | 197 | 38 | 40 | 151 | 79 | 33 | 39 | 09 |
