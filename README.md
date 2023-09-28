@@ -1,6 +1,6 @@
 # Seq_LANE
-This open access dataset is for ASVs free space segmentation, along with our paper work "Visual Temporal Fusion Based Free Space Segmentation
-for Autonomous Surface Vessels".
+This open access dataset is publicly available [here](https://drive.google.com/file/d/1b9LX9nDxuBloGgJruVAqEoGDccvBi_aZ/view?usp=drive_link) for ASVs free space segmentation, along with our paper work "Visual Temporal Fusion Based Free Space Segmentation
+for Autonomous Surface Vessels". 
 
 ## Introduction
 The data was collected by our ASV ”Xi”, which is equipped with cameras with a resolution of 640 × 480. The dataset was collected in varying weather and lighting conditions, including mirrors, dynamic surface textures, cluttered backgrounds, and motion quiver interference. This VOC style dataset contains 10 sequences, which consist of 5530 frames, illustrating sunny daytime, midnight, dusk of inland rivers and lakes are involved. 
